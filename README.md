@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Alexis Gómez”,
-   “role” : “Operador de Sistemas | Hospital Angeles”,
+   “role” : “Desarrollador Front End | SEFIPLAN”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/alexis-gh/", 
