@@ -6,7 +6,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/alexis-gh/", 
-      "Resume"   : "http://developercode.ga/",
+      "Resume"   : "http://developercode.ga/](https://alexisgohe.github.io/portafolio_2025/",
      }
  }
 ```
