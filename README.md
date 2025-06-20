@@ -60,8 +60,7 @@
 
 ### 📌 Experiencia Destacada
 
-- Desarrollo de sistemas internos para la Secretaría de Finanzas de Veracruz (SOFEV), abarcando frontend (Angular), backend (Java EE), y bases de datos (PostgreSQL).
-- Implementación de WebSockets para control de sesiones y notificaciones en tiempo real.
+- Desarrolle de sistemas internos orientadas a la gestión financiera y administrativa del estado, abarcando frontend (Angular), backend (Java EE), y bases de datos (PostgreSQL).
 - Diseño de dashboards con métricas del sistema: actividad de usuarios, módulos frecuentes, y sesiones activas.
 - Optimización de reportes y mejora visual de interfaces existentes.
 - Integración de APIs REST y gestión de archivos con MinIO.
@@ -70,7 +69,8 @@
 
 ### 🌱 Estoy aprendiendo...
 
-- Profundización en patrones de arquitectura frontend, RxJS y diseño modular en Angular.
+- Actualmente, me estoy formando en diseño UI/UX para complementar mis habilidades técnicas.
+- Estoy incorporando Express.js a mis conocimientos de desarrollo web.
 - Refuerzo en buenas prácticas con React y TypeScript.
 
 ---
